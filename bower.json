@@ -1,0 +1,25 @@
+{
+  "name": "Exercicio",
+  "description": "Teste para Bower",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "php"
+  ],
+  "authors": [
+    "matheus"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.5"
+  }
+}
